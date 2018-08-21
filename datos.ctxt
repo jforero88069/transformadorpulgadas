@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=datos
+comment0.text=\ import\ java.util.*\ permite\ cargar\ varios\ directorios\ ademas\ del\ de\ escanear\r\n\ \ 1\ pulgada\ equivale\ a\ 0.0833\ pies,\ \r\n\ \ 1\ pulgada\ equivale\ a\ 2.54\ cent\u00EDmetros,\ \r\n\ \ 1\ legua\ equivale\ a\ 190080.02\ pulgadas\ y\ \r\n\ \ 1\ yarda\ son\ 36\ pulgadas.\ \r\n\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
